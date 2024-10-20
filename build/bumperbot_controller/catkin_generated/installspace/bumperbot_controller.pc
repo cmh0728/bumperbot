@@ -1,0 +1,8 @@
+prefix=/home/fvt1/bumperbot_ws/install
+
+Name: bumperbot_controller
+Description: Description of bumperbot_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
